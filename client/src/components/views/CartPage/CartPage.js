@@ -39,18 +39,16 @@ function CartPage(props) {
   const calculateTotal = (cartDetail) => {
     let total = 0;
 
-    {
-      cartDetail &&
-        cartDetail.map((item) => {
-          total += parseInt(item.price, 10) * item.quantity;
-        });
-    }
+    cartDetail &&
+      cartDetail.map((item) => {
+        total += parseInt(item.price, 10) * item.quantity;
+      });
 
     setTotal(total);
     setShowTotal(true);
   };
 
-  const removeFromCart = (productId) => {
+  let removeFromCart = (productId) => {
     dispatch(removeCartItem(productId)).then((response) => {
       if (response.payload.productInfo.length <= 0) {
         setShowTotal(false);

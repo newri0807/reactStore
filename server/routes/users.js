@@ -123,7 +123,7 @@ router.post("/addToCart", auth, (req, res) => {
 router.get("/removeFromCart", auth, (req, res) => {
   // 먼저 cart안에 내가 지우려고 한 상품을 지워주기
   User.findOneAndUpdate(
-    { id: req.user._id },
+    { _id: req.user._id },
     {
       $pull: { cart: { id: req.query.id } },
     },

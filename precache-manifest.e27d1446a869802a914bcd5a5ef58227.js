@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d15b525db8f3ad74cc77314bed997dfc",
+    "revision": "9bea5e123df4385d374a6251f0e1aebb",
     "url": "https://newri0807.github.io/reactStore/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://newri0807.github.io/reactStore/static/css/2.40e60438.chunk.css"
   },
   {
-    "revision": "9a298fc94717f7f32764",
+    "revision": "12d1dab0faeba5f5a87d",
     "url": "https://newri0807.github.io/reactStore/static/css/main.54bf843f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://newri0807.github.io/reactStore/static/js/2.b7809263.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a298fc94717f7f32764",
-    "url": "https://newri0807.github.io/reactStore/static/js/main.af80c594.chunk.js"
+    "revision": "12d1dab0faeba5f5a87d",
+    "url": "https://newri0807.github.io/reactStore/static/js/main.aa94eff8.chunk.js"
   },
   {
     "revision": "48f8916dff3802d42dbb",

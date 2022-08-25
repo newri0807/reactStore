@@ -1,18 +1,6 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+# 쇼핑몰 사이트 만들기
 
-To use this application, 
+> React, nodeJS와 MongoDB를 사용해 반응형 쇼핑몰 웹 입니다.
+- 사용 스택 : React Hooks, Nodejs, MongoDB, Express, Redux
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
-
-
-If you have problem, feel free to ask me ^^ 
-
-You can watch the tutorial for this app.
-
-https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
-
-
+![my blog 2](https://user-images.githubusercontent.com/51315988/170182548-c51edf9e-02fc-4ead-9400-af918dbf686a.gif)

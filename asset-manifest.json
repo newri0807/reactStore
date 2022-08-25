@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://newri0807.github.io/reactStore/static/css/main.54bf843f.chunk.css",
-    "main.js": "https://newri0807.github.io/reactStore/static/js/main.bc114b1a.chunk.js",
-    "main.js.map": "https://newri0807.github.io/reactStore/static/js/main.bc114b1a.chunk.js.map",
+    "main.js": "https://newri0807.github.io/reactStore/static/js/main.5fb4ce2d.chunk.js",
+    "main.js.map": "https://newri0807.github.io/reactStore/static/js/main.5fb4ce2d.chunk.js.map",
     "runtime-main.js": "https://newri0807.github.io/reactStore/static/js/runtime-main.94cc3915.js",
     "runtime-main.js.map": "https://newri0807.github.io/reactStore/static/js/runtime-main.94cc3915.js.map",
     "static/css/2.40e60438.chunk.css": "https://newri0807.github.io/reactStore/static/css/2.40e60438.chunk.css",
     "static/js/2.b7809263.chunk.js": "https://newri0807.github.io/reactStore/static/js/2.b7809263.chunk.js",
     "static/js/2.b7809263.chunk.js.map": "https://newri0807.github.io/reactStore/static/js/2.b7809263.chunk.js.map",
     "index.html": "https://newri0807.github.io/reactStore/index.html",
-    "precache-manifest.8155a73960e1950f4904587b73781021.js": "https://newri0807.github.io/reactStore/precache-manifest.8155a73960e1950f4904587b73781021.js",
+    "precache-manifest.8e7830a09fc12bedd24c0c6d6f853c04.js": "https://newri0807.github.io/reactStore/precache-manifest.8e7830a09fc12bedd24c0c6d6f853c04.js",
     "service-worker.js": "https://newri0807.github.io/reactStore/service-worker.js",
     "static/css/2.40e60438.chunk.css.map": "https://newri0807.github.io/reactStore/static/css/2.40e60438.chunk.css.map",
     "static/css/main.54bf843f.chunk.css.map": "https://newri0807.github.io/reactStore/static/css/main.54bf843f.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.40e60438.chunk.css",
     "static/js/2.b7809263.chunk.js",
     "static/css/main.54bf843f.chunk.css",
-    "static/js/main.bc114b1a.chunk.js"
+    "static/js/main.5fb4ce2d.chunk.js"
   ]
 }

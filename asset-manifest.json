@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/reactStore/static/css/main.54bf843f.chunk.css",
-    "main.js": "/reactStore/static/js/main.1b2e86bd.chunk.js",
-    "main.js.map": "/reactStore/static/js/main.1b2e86bd.chunk.js.map",
-    "runtime-main.js": "/reactStore/static/js/runtime-main.e6d83e78.js",
-    "runtime-main.js.map": "/reactStore/static/js/runtime-main.e6d83e78.js.map",
-    "static/css/2.40e60438.chunk.css": "/reactStore/static/css/2.40e60438.chunk.css",
-    "static/js/2.5a5393f5.chunk.js": "/reactStore/static/js/2.5a5393f5.chunk.js",
-    "static/js/2.5a5393f5.chunk.js.map": "/reactStore/static/js/2.5a5393f5.chunk.js.map",
-    "index.html": "/reactStore/index.html",
-    "precache-manifest.acac65c55f703040d4132febfe2fbcb5.js": "/reactStore/precache-manifest.acac65c55f703040d4132febfe2fbcb5.js",
-    "service-worker.js": "/reactStore/service-worker.js",
-    "static/css/2.40e60438.chunk.css.map": "/reactStore/static/css/2.40e60438.chunk.css.map",
-    "static/css/main.54bf843f.chunk.css.map": "/reactStore/static/css/main.54bf843f.chunk.css.map",
-    "static/js/2.5a5393f5.chunk.js.LICENSE.txt": "/reactStore/static/js/2.5a5393f5.chunk.js.LICENSE.txt"
+    "main.css": "https://newri0807.github.io/reactStore/static/css/main.54bf843f.chunk.css",
+    "main.js": "https://newri0807.github.io/reactStore/static/js/main.7b12e2d2.chunk.js",
+    "main.js.map": "https://newri0807.github.io/reactStore/static/js/main.7b12e2d2.chunk.js.map",
+    "runtime-main.js": "https://newri0807.github.io/reactStore/static/js/runtime-main.94cc3915.js",
+    "runtime-main.js.map": "https://newri0807.github.io/reactStore/static/js/runtime-main.94cc3915.js.map",
+    "static/css/2.40e60438.chunk.css": "https://newri0807.github.io/reactStore/static/css/2.40e60438.chunk.css",
+    "static/js/2.b7809263.chunk.js": "https://newri0807.github.io/reactStore/static/js/2.b7809263.chunk.js",
+    "static/js/2.b7809263.chunk.js.map": "https://newri0807.github.io/reactStore/static/js/2.b7809263.chunk.js.map",
+    "index.html": "https://newri0807.github.io/reactStore/index.html",
+    "precache-manifest.ad7e6693d49b9a3e2a8f304a22a210d7.js": "https://newri0807.github.io/reactStore/precache-manifest.ad7e6693d49b9a3e2a8f304a22a210d7.js",
+    "service-worker.js": "https://newri0807.github.io/reactStore/service-worker.js",
+    "static/css/2.40e60438.chunk.css.map": "https://newri0807.github.io/reactStore/static/css/2.40e60438.chunk.css.map",
+    "static/css/main.54bf843f.chunk.css.map": "https://newri0807.github.io/reactStore/static/css/main.54bf843f.chunk.css.map",
+    "static/js/2.b7809263.chunk.js.LICENSE.txt": "https://newri0807.github.io/reactStore/static/js/2.b7809263.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6d83e78.js",
+    "static/js/runtime-main.94cc3915.js",
     "static/css/2.40e60438.chunk.css",
-    "static/js/2.5a5393f5.chunk.js",
+    "static/js/2.b7809263.chunk.js",
     "static/css/main.54bf843f.chunk.css",
-    "static/js/main.1b2e86bd.chunk.js"
+    "static/js/main.7b12e2d2.chunk.js"
   ]
 }
